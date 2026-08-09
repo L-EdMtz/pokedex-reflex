@@ -1,0 +1,17 @@
+# Virtual env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Reflex build
+.web/
+.states/
+reflex.lock/
+
+# IDEs
+.idea/
+.vscode/
