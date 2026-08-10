@@ -35,7 +35,7 @@ Users search for Pokémon, the PokeAPI returns the information, and it is displa
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/L-EdMtz/pokedex-reflexS
 ```
 
 2. Navigate to the project directory:
