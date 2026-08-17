@@ -8,7 +8,7 @@ Users search for Pokémon, the PokeAPI returns the information, and it is displa
 
 ### PC:
 
-![screenshot_pc 2026-07-31.png](screenshots/screenshot_pc%202026-07-31.png)
+![Pokédex screenshot (PC)](screenshots/screenshot_pc%202026-07-31.png)
 
 ### Mobile:
 
